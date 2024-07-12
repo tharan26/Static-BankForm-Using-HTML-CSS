@@ -1,0 +1,46 @@
+.section{
+    padding-top: 30px;
+}
+
+.col-12 input{
+    border: 1px solid black;
+}
+
+.col-12 label{
+    font-weight: bold;
+}
+
+header{
+    background-color: green;
+    height: 100px;
+}
+
+header h1{
+    padding-top: 20px;
+    padding-left: 20px;
+}
+
+#cname{
+    padding-top: 30px;
+}
+
+.col-sm-3{
+    display: flex;
+}
+
+input{
+    width: 500px;
+}
+
+#fname{
+    padding-top: 20px;
+}
+
+#phone{
+    padding-top: 20px;
+}
+
+.three{
+    display: flex;
+    margin-top: 20px;
+}
